@@ -8,7 +8,7 @@
 </div>
 <h3>Hesaplarım:</h3>
 <p align="center">
-   <a href="https://x.com/rude1337" target"blank_"><img src="https://img.shields.io/twitter/follow/rude1337?label=Follow&style=social"></a>
+   <a href="https://x.com/rude1337" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://github.com/emirwia" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://open.spotify.com/user/31dnuynknlqlde57c4z5gm36l65u" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
