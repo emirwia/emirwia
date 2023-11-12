@@ -1,7 +1,4 @@
-<h1 align="center">
-  <br>
-  <img align="left" width="200" src="https://gifyu.com/image/SRSqC"></a>
-  <br>
+<img align="left" width="200" src="https://gifyu.com/image/SRSqC"></a>
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Emir 👋</h2>
 
 
