@@ -1,4 +1,4 @@
-<img align="left" width="200" src="https://gifyu.com/image/SRSqC"></a>
+![4cd9ce636c6d5f23688f0fda99cd81cf](https://github.com/emirwia/emirwia/assets/150293407/2ffd6a94-84e3-4b0a-8f4d-38bb907f05dd)
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Emir 👋</h2>
 
 
