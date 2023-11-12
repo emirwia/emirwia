@@ -1,5 +1,5 @@
 <h1 align="center">
-<br><img src="https://github.com/emirwia/emirwia/assets/150293407/2ffd6a94-84e3-4b0a-8f4d-38bb907f05dd" width="350"><br>
+<br><img src="https://github.com/emirwia/emirwia/assets/150293407/2ffd6a94-84e3-4b0a-8f4d-38bb907f05dd" width="400" height="200"><br>
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Emir 👋</h2>
 
 
