@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://telegra.ph/file/9a4ae659672110c3cd080.gif" alt="Logo" width="200">
+  <img align="left" width="200" src="https://gifyu.com/image/SRSqC"></a>
   <br>
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Emir 👋</h2>
 
